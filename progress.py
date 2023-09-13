@@ -12,5 +12,5 @@ def print_progress_bar():
         time.sleep(0.01)
 
 
-    print("Готово.")
+    print("Готово!")
 
